@@ -1,7 +1,7 @@
 # RAPIDO RIDES – BUSINESS PERFORMANCE DASHBOARD
 Tableau dashboard analyzing Rapido ride demand, revenue, service performance, cancellations, and payment behavior.
 
-![OUTPUT](RapidoProject.png)
+![Dash Board](RapidoProject.png)
 
 This project presents an interactive Tableau dashboard built to analyze the business performance of Rapido rides.  
 The dashboard provides insights into ride demand, revenue trends, service-wise performance, cancellations, and customer payment behavior.
